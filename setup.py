@@ -34,8 +34,8 @@ requires = ['Sphinx>=1.0b2']
 setup(
     name='sphinxcontrib-ansi',
     version='0.6',
-    url='http://bitbucket.org/birkenfeld/sphinx-contrib',
-    download_url='http://pypi.python.org/pypi/ansi',
+    url='https://github.com/sphinx-contrib/ansi',
+    download_url='http://pypi.python.org/pypi/sphinxcontrib-ansi',
     license='BSD',
     author='Sebastian Wiesner',
     author_email='lunaryorn@googlemail.com',
